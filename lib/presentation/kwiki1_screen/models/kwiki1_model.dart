@@ -1,0 +1,1 @@
+class Kwiki1Model {}
